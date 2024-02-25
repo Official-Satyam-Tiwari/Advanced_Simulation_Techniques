@@ -33,9 +33,3 @@ This repository is dedicated to implementing advanced simulation techniques usin
     - **Application:** Efficiently solving a system of linear equations.
     - **Implementation:** `lu_decomposition.f90`
     - **Usage:** Explain the advantages of LU decomposition and provide a sample problem.
-
-## 🛠️ How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/offical-satyam-tiwari/advanced-simulation-fortran.git
